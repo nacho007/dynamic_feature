@@ -1,0 +1,440 @@
+<resources>
+
+    <string name="app_name" translatable="false">AstroPay</string>
+    <string name="app_name_caps" translatable="false">AstroPay</string>
+    <string name="paynet" translatable="false">PayNet</string>
+
+    <string name="language_spanish" translatable="false">Español</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="language_portuguese" translatable="false">Português</string>
+    <string name="language_japan" translatable="false">日本語</string>
+    <string name="language_turk" translatable="false">Türkçe</string>
+    <string name="language_korean" translatable="false">한국의</string>
+    <string name="language_chinese_simplified" translatable="false">简体中文</string>
+    <string name="language_chinese_traditional" translatable="false">繁體中文</string>
+    <string name="language_thai" translatable="false">ภาษาไทย</string>
+    <string name="language_indonesian" translatable="false">Bahasa Indonesia</string>
+    <string name="language_vietnamit" translatable="false">Tiếng Việt</string>
+    <string name="language_arabic" translatable="false">العربية</string>
+
+    <string name="scheme" translatable="false">apcmobile</string>
+    <string name="host_newcard" translatable="false">newcard</string>
+    <string name="host_signup" translatable="false">signup</string>
+    <string name="host_web_view" translatable="false">webview</string>
+    <string name="host_video" translatable="false">video</string>
+    <string name="host_profile" translatable="false">profile</string>
+
+    <string name="card_cvv" translatable="false">CVV</string>
+    <string name="card_exp" translatable="false">EXP</string>
+    <string name="card_pending" translatable="false">Pending</string>
+    <string name="fragment_settings_developer_options" translatable="false">Developer options</string>
+    <string name="fragment_more_option_99" translatable="false">Simulate No Cards</string>
+    <string name="fragment_more_option_100" translatable="false">Simulate Cards</string>
+    <string name="fragment_more_option_101" translatable="false">Invoke App Init</string>
+    <string name="fragment_more_option_102" translatable="false">Simulate Transfer Notification</string>
+    <string name="fragment_more_option_103" translatable="false">Invoke Refresh Token</string>
+    <string name="fragment_more_option_104" translatable="false">Simulate Purchase Notification</string>
+    <string name="fragment_more_option_105" translatable="false">Invoke Expire Token</string>
+    <string name="fragment_more_option_106" translatable="false">Crash App</string>
+    <string name="fragment_more_option_107" translatable="false">Simulate Cards Store</string>
+    <string name="fragment_more_option_108" translatable="false">Navigate To Splash</string>
+    <string name="fragment_more_option_109" translatable="false">Simulate Promo Notification</string>
+    <string name="fragment_more_option_110" translatable="false">Invoke Test Service</string>
+    <string name="fragment_more_option_111" translatable="false">Show Dialog Rate App</string>
+    <string name="fragment_more_option_112" translatable="false">Show Dialog Versioning</string>
+    <string name="fragment_more_option_113" translatable="false">Install Broadcast</string>
+    <string name="fragment_more_option_114" translatable="false">Create contacts for Store</string>
+    <string name="fragment_more_option_115" translatable="false">Set user null</string>
+    <string name="fragment_more_option_116" translatable="false">Set session null</string>
+    <string name="fragment_more_option_117" translatable="false">Make service fail</string>
+    <string name="fragment_more_option_118" translatable="false">Make measurement null</string>
+    <string name="fragment_more_option_119" translatable="false">Show Dialog Warning</string>
+    <string name="fragment_more_option_120" translatable="false">Show Dialog Error</string>
+    <string name="fragment_more_option_121" translatable="false">Show Dialog Information</string>
+    <string name="fragment_more_option_122" translatable="false">Show Dialog Information With Button</string>
+    <string name="fragment_more_option_123" translatable="false">Show Dialog FingerPrint</string>
+    <string name="fragment_more_option_124" translatable="false">Show Dialog FingerPrint Prompt</string>
+    <string name="fragment_more_option_125" translatable="false">Show Dialog Photo Picker</string>
+    <string name="fragment_more_option_126" translatable="false">Show Dialog Positive Negative</string>
+    <string name="fragment_more_option_127" translatable="false">Transfer animation user</string>
+    <string name="fragment_more_option_128" translatable="false">Transfer animation new user</string>
+    <string name="fragment_more_option_129" translatable="false">Refund animation Bitcoin</string>
+    <string name="fragment_more_option_130" translatable="false">Refund animation Bank Refund</string>
+    <string name="fragment_more_option_131" translatable="false">Refund animation Reseller</string>
+    <string name="fragment_more_option_132" translatable="false">Show Overlay</string>
+    <string name="fragment_more_option_133" translatable="false">Simulate Cashout Notification</string>
+    <string name="fragment_more_option_136" translatable="false">Open index.html</string>
+    <string name="fragment_more_option_137" translatable="false">Open app-stores.html</string>
+    <string name="fragment_more_option_138" translatable="false">Open payment_success.html</string>
+    <string name="fragment_more_option_139" translatable="false">Open payment_error.html</string>
+    <string name="fragment_more_option_140" translatable="false">Open custom url</string>
+    <string name="fragment_more_option_141" translatable="false">Red pagos View</string>
+    <string name="fragment_more_option_142" translatable="false">Show Snackbar message</string>
+    <string name="fragment_more_option_143" translatable="false">Valid Last Purchase</string>
+    <string name="fragment_more_option_144" translatable="false">Invalid Last Purchase</string>
+    <string name="fragment_more_option_145" translatable="false">Clear All Last Purchases</string>
+    <string name="fragment_more_option_146" translatable="false">Force payment method timeout</string>
+    <string name="fragment_more_option_147" translatable="false">Normal payment method timeout</string>
+    <string name="fragment_more_option_148" translatable="false">See tutorial overlay</string>
+    <string name="fragment_more_option_149" translatable="false">Reset tutorial preferences</string>
+    <string name="fragment_more_option_150" translatable="false">Reset rate preferences</string>
+    <string name="fragment_more_option_151" translatable="false">Show Dialog FeedBack</string>
+    <string name="fragment_more_option_152" translatable="false">Open Jumio</string>
+    <string name="fragment_more_option_153" translatable="false">Simulate Document Notification</string>
+    <string name="fragment_more_option_154" translatable="false">Invoke Refresh Token</string>
+
+    <string name="fragment_developer_option_cards" translatable="false">Cards</string>
+    <string name="fragment_developer_option_create" translatable="false">Create</string>
+    <string name="fragment_developer_option_max_currencies" translatable="false">Currencies (MAX 5)</string>
+
+    <string name="mobile_version_number" translatable="false">v</string>
+    <string name="mobile_wallet_id_hint" translatable="false">1FWHeZ3FuzEMeGYniLpKZA6T5YRhTkYY59</string>
+    <string name="image_content_description" translatable="false">No content description</string>
+    <string name="edit_text_hint" translatable="false">""</string>
+
+    <string name="two_values" translatable="false">%1$s %2$s</string>
+    <string name="tree_values" translatable="false">%1$s- %2$s %3$s</string>
+    <string name="four_values" translatable="false">%1$s \u0020\u0020\ %2$s \u0020\u0020\ %3$s \u0020\u0020\ %4$s</string>
+    <string name="card_expiration_values" translatable="false">%1$s/%2$s</string>
+    <string name="last_purchase_currency_amount" translatable="false">%1$s %2$s</string>
+    <string name="currency_space" translatable="false">%1$s\u0020\u0020</string>
+
+    <string name="amount_kilo" translatable="false">%1$d K</string>
+    <string name="amount_million" translatable="false">%1$d M</string>
+
+    <string name="firebase_topic_purchasers_pm" translatable="false">"purchasers_pm_"</string>
+
+    <string name="mobile_upload_document_description" translatable="false">"Tap to upload photos"</string>
+    <string name="mobile_currency">"Currency"</string>
+
+    <string name="quantity_plus" translatable="false">+</string>
+    <string name="quantity_minus" translatable="false">-</string>
+    <string name="quantity_default_value" translatable="false">1</string>
+>>>>>>> feature/MER-42_cart
+
+    <string-array name="array_name">
+        <item>Array Item One</item>
+        <item>Array Item Two</item>
+        <item>Array Item Three</item>
+    </string-array>
+
+    <string name="mobile_error">"Error"</string>
+    <string name="android_no_contacts">"No contacts to display"</string>
+    <string name="android_retry">"Retry"</string>
+    <string name="format_android_enter_activation">"Please enter the 6-digit activation code we sent you
+to %1$s"</string>
+    <string name="format_android_no_account">"Don\'t have an account?
+Sign Up"</string>
+    <string name="format_android_receive_sms">"Didn\'t receive a text message?
+%1$s to resend"</string>
+    <string name="format_android_refresh">"or %1$s to refresh"</string>
+    <string name="mobile_cancel">"Cancel"</string>
+    <string name="mobile_close">"Close"</string>
+    <string name="mobile_tap">"tap"</string>
+    <string name="mobile_activation">"Activation"</string>
+    <string name="mobile_activity">"Activity"</string>
+    <string name="mobile_address">"Address"</string>
+    <string name="mobile_basic_info">"Basic Info"</string>
+    <string name="mobile_birthdate">"Birthdate"</string>
+    <string name="mobile_change_password">"Change Password"</string>
+    <string name="mobile_city">"City"</string>
+    <string name="mobile_confirm">"Confirm"</string>
+    <string name="mobile_confirm_consolidation">"Confirm consolidation"</string>
+    <string name="mobile_confirm_transfer">"Confirm transfer"</string>
+    <string name="mobile_consolidate">"Consolidate"</string>
+    <string name="mobile_consolidate_validation">"To consolidate you need to have at least 2 cards of the same currency"</string>
+    <string name="mobile_contacts">"Contacts"</string>
+    <string name="mobile_country">"Country"</string>
+    <string name="mobile_current_password">"Current Password"</string>
+    <string name="mobile_done">"Done"</string>
+    <string name="mobile_edit_profile">"Edit Profile"</string>
+    <string name="mobile_email">"Email"</string>
+    <string name="mobile_enter_phone_recovery">"Please enter your phone number"</string>
+    <string name="mobile_enter_phone_signup">"Please enter your phone number to get started"</string>
+    <string name="mobile_expired_error">"We were unable to process your request because the session expired.
+Please log in again."</string>
+    <string name="mobile_first_name">"First Name"</string>
+    <string name="mobile_forgot_password">"Forgot password?"</string>
+    <string name="mobile_generic_error">"We are experiencing difficulties with the system. Please try again later."</string>
+    <string name="mobile_get_new_card">"Get a new card"</string>
+    <string name="mobile_internet_error">"Internet connection not detected. Please check your connection and try again."</string>
+    <string name="mobile_language">"Language"</string>
+    <string name="mobile_last_name">"Last Name"</string>
+    <string name="mobile_login">"Login"</string>
+    <string name="mobile_merged_card">"The merged card will be added to your Wallet"</string>
+    <string name="mobile_more">"More"</string>
+    <string name="mobile_next">"Next"</string>
+    <string name="mobile_no_data">"No data to display"</string>
+    <string name="mobile_ok">"OK"</string>
+    <string name="mobile_password">"Password"</string>
+    <string name="mobile_password_confirmation">"Repeat password"</string>
+    <string name="mobile_password_recovery">"Password recovery"</string>
+    <string name="mobile_phone_number">"Phone Number"</string>
+    <string name="mobile_postcode">"Postcode"</string>
+    <string name="mobile_provide_valid_email">"Please provide a valid email address, as you will be prompted for confirmation"</string>
+    <string name="mobile_purchase_new_card">"Purchase a new card to get started"</string>
+    <string name="mobile_recents">"Recents"</string>
+    <string name="mobile_remeber_me">"Remember me"</string>
+    <string name="mobile_select_country">"Select your country"</string>
+    <string name="mobile_send">"Send"</string>
+    <string name="mobile_settings">"Settings"</string>
+    <string name="mobile_sign_out">"Sign Out"</string>
+    <string name="mobile_sign_up">"Sign Up"</string>
+    <string name="mobile_skip">"Skip"</string>
+    <string name="mobile_state">"State"</string>
+    <string name="mobile_submit">"Submit"</string>
+    <string name="mobile_transfer">"Transfer"</string>
+    <string name="mobile_transfer_validation">"To transfer you need to have at least 1 card"</string>
+    <string name="mobile_try_again">"Try again"</string>
+    <string name="mobile_type_in_phone">"Type in a phone number"</string>
+    <string name="mobile_update">"Update"</string>
+    <string name="mobile_wallet">"Wallet"</string>
+    <string name="mobile_welcome">"Welcome"</string>
+    <string name="mobile_password_description">"Passwords must be at least 6 characters"</string>
+    <string name="mobile_consolidate_description">"Tap the cards to consolidate"</string>
+    <string name="mobile_select_all">"Select all"</string>
+    <string name="mobile_transfer_description">"Tap the card you want to transfer"</string>
+    <string name="mobile_copy_card_message">"Card number saved into the clipboard"</string>
+    <string name="android_contact_permission_header">"Allow AstroPay to access your contacts?"</string>
+    <string name="android_contact_permission_button">"Enable Contacts"</string>
+    <string name="mobile_sign_out_message">"Are you sure you want to sign out?"</string>
+    <string name="mobile_signup_description">"AstroPay Card is a prepaid virtual card, accepted at hundreds of online stores.
+
+Sign up to manage your prepaid cards and get quick access to them when needed."</string>
+    <string name="mobile_already_have_account">"Already have an account?"</string>
+    <plurals name="android_selected_cards">
+        <item quantity="one">"%1$s card selected"</item>
+        <item quantity="other">"%1$s cards selected"</item>
+    </plurals>
+    <string name="mobile_transfer_history">"Transfer history"</string>
+    <string name="mobile_no_more_data">"No more data to display"</string>
+    <string name="mobile_sent_to">"Sent to"</string>
+    <string name="mobile_from">"Received from"</string>
+    <string name="mobile_terms_and_conditions">"Terms and Conditions"</string>
+    <string name="mobile_privacy_policy">"Privacy Policy"</string>
+    <string name="mobile_help">"Help"</string>
+    <string name="mobile_touch_id_alert_title">"Enable Touch ID"</string>
+    <string name="mobile_touch_id_alert_desc">"Do you wish to use Touch ID to log in?
+You can always change this in Settings"</string>
+    <string name="mobile_touch_id_prompt_desc">"Authenticate using your finger"</string>
+    <string name="mobile_touch_id">"Touch ID"</string>
+    <string name="mobile_yes">"Yes"</string>
+    <string name="mobile_no">"No"</string>
+    <string name="format_android_terms_and_conditions_description">"By tapping Sign Up you agree to our %1$s"</string>
+    <string name="format_android_privacy_policy_description">"and that you have read our %1$s"</string>
+    <string name="mobile_astropay_users">"AstroPay Card Users"</string>
+    <string name="mobile_new_card">"New card"</string>
+    <string name="mobile_new_card_description">"Tap the card you want to buy"</string>
+    <string name="mobile_payment_methods_description">"Select your preferred method for payment"</string>
+    <string name="mobile_wallet_copy">"Copy"</string>
+    <string name="mobile_wallet_transfer">"Transfer"</string>
+    <string name="mobile_refund">"Refund"</string>
+    <string name="mobile_refund_description">"Please, provide your refund information with the most detail as posible"</string>
+    <string name="format_android_refund_fee_description">"Refund fee of %1$s"</string>
+    <string name="format_android_refund_warning_minimum_amount">"The minimum amount to refund is %1$s USD"</string>
+    <string name="mobile_purchase_order">"Purchase order"</string>
+    <string name="mobile_purchase_history">"Purchase history"</string>
+    <string name="mobile_boleto_copy_number">"Digital line saved into the clipboard"</string>
+    <string name="mobile_boleto_success_desc">"Your boleto was successfully generated"</string>
+    <string name="mobile_boleto_document">"CPF/CEI/CNPJ"</string>
+    <string name="mobile_expiration_date">"Expiration date"</string>
+    <string name="mobile_value">"Value"</string>
+    <string name="mobile_barcode">"Barcode"</string>
+    <string name="mobile_reference">"Reference"</string>
+    <string name="mobile_checkout">"Checkout"</string>
+    <string name="mobile_selected_payment_method">"Selected payment method"</string>
+    <string name="mobile_confirm_purchase">"Confirm purchase"</string>
+    <string name="mobile_send_request">"Send request"</string>
+    <string name="mobile_completed">"Completed"</string>
+    <string name="mobile_canceled">"Canceled"</string>
+    <string name="mobile_pending">"Pending"</string>
+    <string name="mobile_digitable_line">"Digital line"</string>
+    <string name="mobile_agency">"Agency"</string>
+    <string name="mobile_current_account">"Current account"</string>
+    <string name="mobile_cnpj">"CNPJ"</string>
+    <string name="mobile_beneficiary">"Beneficiary"</string>
+    <string name="mobile_copy_agency">"Agency number saved into the clipboard"</string>
+    <string name="mobile_copy_current_account">"Current account number saved into the clipboard"</string>
+    <string name="mobile_operation">"Operation"</string>
+    <string name="mobile_purchase_order_pending_desc">"Your purchase order was successfully generated"</string>
+    <string name="mobile_amount">"Amount"</string>
+    <string name="mobile_document_number">"Document number"</string>
+    <string name="mobile_bill">"Bill"</string>
+    <string name="mobile_copy_reference">"Reference number saved into the clipboard"</string>
+    <string name="mobile_account_number">"Account number"</string>
+    <string name="mobile_copy_account_number">"Account number saved into the clipboard"</string>
+    <string name="mobile_copy_user_id">"User ID saved into the clipboard"</string>
+    <string name="mobile_user_id">"User ID"</string>
+    <string name="mobile_contact_us">"Contact us"</string>
+    <string name="mobile_contact_desc">"Our support team will contact you as soon as possible"</string>
+    <string name="mobile_rate_app_rate_us">"Rate us"</string>
+    <string name="mobile_rate_app_feedback_description">"Please let us know, how can we improve ourselves?"</string>
+    <string name="mobile_force_change_password">"For your own security, please change your password to continue"</string>
+    <string name="mobile_purchase_order_completed_desc">"Your purchase order has been completed"</string>
+    <string name="mobile_purchase_order_canceled_desc">"Your purchase order has been canceled"</string>
+    <string name="mobile_cashout">"Cashout"</string>
+    <string name="mobile_cashout_description">"Please, provide your cashout information with the most detail as posible"</string>
+    <string name="format_android_cashout_fee_description">"Cashout fee of %1$s"</string>
+    <string name="format_android_cashout_warning_minimum_amount">"The minimum amount to cashout is %1$s USD"</string>
+    <string name="mobile_refund_methods_description">"Select your preferred method for refund"</string>
+    <string name="mobile_cashout_methods_description">"Select your preferred method for cashout"</string>
+    <string name="mobile_no_deposits">"No deposits to display"</string>
+    <string name="mobile_amount_btc_desc">"Amount of Bitcoin to receive"</string>
+    <string name="mobile_wallet_btc_desc">"Address of receiving wallet"</string>
+    <string name="mobile_btc_info">"The transfer will be done for the value shown, it can take up to 2 working days"</string>
+    <string name="mobile_bank_name">"Bank name"</string>
+    <string name="mobile_clabe">"CLABE"</string>
+    <string name="mobile_numeric_reference">"Numeric reference"</string>
+    <string name="mobile_payment_concept">"Payment concept"</string>
+    <string name="mobile_copy_clabe">"CLABE saved into the clipboard"</string>
+    <string name="mobile_copy_numeric_reference_number">"Numeric reference saved into the clipboard"</string>
+    <string name="mobile_copy_payment_concept">"Payment concept saved into the clipboard"</string>
+    <string name="mobile_faq">"FAQs"</string>
+    <string name="mobile_gallery">"Gallery"</string>
+    <string name="mobile_camera">"Camera"</string>
+    <string name="mobile_choose">"Choose"</string>
+    <string name="android_permission_denied">"Permission denied"</string>
+    <string name="mobile_contact_us_card_error">"Error when buying a card"</string>
+    <string name="mobile_contact_us_bug">"Something is not working"</string>
+    <string name="mobile_contact_us_general">"General comments"</string>
+    <string name="mobile_image_size_too_big">"Image size is too big"</string>
+    <string name="mobile_payment_method_offline_desc">"This payment method is temporarily out of service"</string>
+    <string name="mobile_document_type">"Document Type"</string>
+    <string name="mobile_cbu">"CBU"</string>
+    <string name="mobile_cuit_dni">"CUIT/DNI"</string>
+    <string name="mobile_copy_cbu">"CBU number saved into the clipboard"</string>
+    <string name="mobile_refund_method_offline_desc">"This refund method is temporarily out of service"</string>
+    <string name="mobile_cashout_method_offline_desc">"This cashout method is temporarily out of service"</string>
+    <string name="mobile_bank_deposit_alert_title">"Please read carefully before deposit"</string>
+    <string name="mobile_dont_remember">"Don't remember"</string>
+    <string name="mobile_warning">"Warning"</string>
+    <string name="mobile_recover_password">"Recover Password"</string>
+    <string name="mobile_yes_i_am_interested">"Yes, I'm interested"</string>
+    <string name="format_android_receive_voice_call">"Didn't receive the code?
+%1$s to call me"</string>
+    <string name="mobile_wallet_address">"Wallet address"</string>
+    <string name="mobile_amount_to_transfer">"Amount to transfer"</string>
+    <string name="mobile_copy_wallet_address">"Wallet address saved into the clipboard"</string>
+    <string name="mobile_attachments">"Attachments"</string>
+    <string name="mobile_upload_bank_transaction_receipt">"Upload bank transaction receipt"</string>
+    <string name="mobile_receipt">"Receipt"</string>
+    <string name="mobile_failed_to_create_directory">"Failed to create directory"</string>
+    <string name="mobile_external_storage_not_mounted">"External storage is not mounted READ/WRITE"</string>
+    <string name="mobile_send_message">"Send Message"</string>
+    <string name="mobile_commission">"Commission"</string>
+    <string name="mobile_refund_no_fee_description">"This operation has no fee"</string>
+    <string name="mobile_select_bank">"Select a bank"</string>
+    <string name="mobile_saved_accounts">"Saved accounts"</string>
+    <string name="mobile_new_account">"New account"</string>
+    <string name="mobile_save_account">"Save account"</string>
+    <string name="mobile_invalid_image_format">"Invalid image format"</string>
+    <string name="mobile_refund_history">"Refund history"</string>
+    <string name="mobile_cashout_history">"Cashout history"</string>
+    <string name="mobile_rut">"RUT"</string>
+    <string name="mobile_no_photo_gallery_available">"Please, install a photo gallery app"</string>
+    <string name="mobile_pan">"PAN"</string>
+    <string name="mobile_no_browser_available">"Please, install a web browser"</string>
+    <string name="mobile_checkout_additional_info">"No charge will be made at this stage"</string>
+    <string name="android_confirm_purchase">"Finish"</string>
+    <string name="mobile_refund_validation">"To refund you need to have at least 1 card"</string>
+    <string name="mobile_cashout_validation">"To cashout you need to have at least 1 card"</string>
+    <string name="mobile_refund_subtitle">"Tap the card you want to refund"</string>
+    <string name="mobile_cashout_subtitle">"Tap the card you want to cashout"</string>
+    <string name="mobile_skip_report_data">"I don't want to report my account"</string>
+    <string name="mobile_invalid_amount_index">"Please, select a different amount to buy with the selected payment method"</string>
+    <string name="mobile_cards_uses">"Cards uses"</string>
+    <string name="mobile_refund_pending_desc">"Your refund is being processed"</string>
+    <string name="mobile_refund_completed_desc">"Your refund has been completed"</string>
+    <string name="mobile_refund_canceled_desc">"Your refund has been rejected"</string>
+    <string name="mobile_cashout_pending_desc">"Your cashout is being processed"</string>
+    <string name="mobile_cashout_completed_desc">"Your cashout has been completed"</string>
+    <string name="mobile_cashout_canceled_desc">"Your cashout has been rejected"</string>
+    <string name="mobile_card_amount">"Card amount"</string>
+    <string name="mobile_payment_amount">"Payment amount"</string>
+    <string name="mobile_rejected">"Rejected"</string>
+    <string name="mobile_cashout_detail">"Cashout detail"</string>
+    <string name="mobile_refund_detail">"Refund detail"</string>
+    <string name="mobile_contact_us_refund_error">"Refund error"</string>
+    <string name="mobile_contact_us_cashout_error">"Cashout error"</string>
+    <string name="mobile_invalid_values">"Some values are incorrect. Check the underlined fields"</string>
+    <string name="mobile_password_not_matched">"Passwords do not match"</string>
+    <string name="mobile_open_in_browser">"Open in browser"</string>
+    <string name="mobile_ask_your_question">"Ask your question"</string>
+    <string name="mobile_cant_find_your_favorite_payment_method">"Didn't find your favorite payment method?"</string>
+    <string name="mobile_your_feedback_is_important_to_us">"Your feedback is very important to us!"</string>
+    <string name="mobile_let_us_know">"Let us know!"</string>
+    <string name="mobile_reseller_description">"Select your preferred local distributor"</string>
+    <string name="format_android_find_near_me">"Find %1$s near me"</string>
+    <string name="format_android_be_a_reseller">"Would you like to become a local distributor? Please, write us to %1$s"</string>
+    <string name="mobile_reseller_offline_desc">"This local distributor is temporarily out of service"</string>
+    <string name="mobile_yesterday">"Yesterday"</string>
+    <string name="mobile_local_distributor">"Local distributor"</string>
+    <string name="mobile_continue">"Continue"</string>
+    <string name="mobile_consolidate_refund_disabled_desc">"If you proceed with the consolidation of these cards, you will not be able to request the refund of consolidated card. If you agree, continue with the operation"</string>
+    <string name="mobile_consolidate_cashout_disabled_desc">"If you proceed with the consolidation of these cards, you will not be able to request the cashout of consolidated card. If you agree, continue with the operation"</string>
+    <string name="mobile_refund_disabled_desc">"This card is not refundable"</string>
+    <string name="mobile_cashout_disabled_desc">"This card is not cashoutable"</string>
+    <string name="mobile_refund_information">"The cards marked with the refund icon are the only ones enabled for refund.
+For more information you can check our terms and conditions in the help section."</string>
+    <string name="mobile_cashout_information">"The cards marked with the cashout icon are the only ones enabled for cashout.
+For more information you can check our terms and conditions in the help section."</string>
+    <string name="mobile_copy_rut">"RUT number saved into the clipboard"</string>
+    <string name="mobile_copy_beneficiary">"Beneficiary number saved into the clipboard"</string>
+    <string name="mobile_enjoying_astropay">"Enjoying AstroPay Card?"</string>
+    <string name="mobile_yes_accent">"Yes!"</string>
+    <string name="mobile_not_really">"Not really"</string>
+    <string name="mobile_how_about_rate">"How about a rating on the store, then?"</string>
+    <string name="mobile_no_thanks">"No, thanks"</string>
+    <string name="mobile_ok_sure">"OK, sure"</string>
+    <string name="format_android_open_third_party_app">"Open %1$s app"</string>
+    <string name="mobile_add_a_promotion_code">"Add a promo code"</string>
+    <string name="mobile_promotion_code">"Promotion Code (Optional)"</string>
+    <string name="mobile_promotion_terms_and_conditions">"Promotion Terms &amp; Conditions"</string>
+    <string name="mobile_want_to_be_vip_user">"Want to be a VIP user?"</string>
+    <string name="mobile_want_to_be_vip_user_description">"We will send you an email with further instructions on how to become a VIP user."</string>
+    <string name="mobile_yes_send_me_instructions">"Send me instructions"</string>
+    <string name="mobile_email_confirmation_reminder">"We have sent an email with a confirmation link to your email address"</string>
+    <string name="mobile_street_address">Street Address</string>
+    <string name="mobile_street_name">Street Name</string>
+    <string name="mobile_street_number">Street Number</string>
+    <string name="mobile_delivery_time">Delivery time</string>
+
+    <string name="mobile_profile">"Profile"</string>
+    <string name="mobile_purchase">"Purchase"</string>
+    <string name="android_no_email_application_found">"Please install an email application to perform the requested operation"</string>
+    <string name="mobile_unsupported_platform">"Unsupported platform"</string>
+    <string name="mobile_document_is_being_processed">"Your document has been submitted successfully. In a few minutes the validation will be complete and a notification will be sent to you so you may continue with your purchase
+
+Remember to enable notifications on your device and verify your email address"</string>
+    <string name="mobile_document_validation">"Document validation"</string>
+    <string name="mobile_document_sent">"Document submitted!"</string>
+    <string name="mobile_document_validation_pending">"Validation pending"</string>
+    <string name="mobile_send_document">"Submit document"</string>
+
+    <string name="feature_jumio" translatable="false">feature_jumio</string>
+    <string name="jumio_class" translatable="false">com.astropaycard.dynamicfeature.feature_jumio.ActivityJumio</string>
+
+    <string name="mobile_tutorial_yes" translatable="false">"Sure! Let's see those videos"</string>
+    <string name="mobile_tutorials" translatable="false">"Tutorials"</string>
+    <string name="mobile_tutorial_purchase" translatable="false">"Purchase"</string>
+    <string name="mobile_tutorial_description" translatable="false">"Hi there! Welcome to AstroPay! My name is Astro and I’m here to help you get started.
+       How about watching some short videos about some of the cool stuff you can do with AstroPay?
+
+       You can always find these videos under the help section to watch when needed"</string>
+    <string name="title_feature_jumio" translatable="false">NetVerify</string>
+
+    <string name="mobile_email_phone_number">"Email or mobile number"</string>
+    <string name="mobile_enter_email_phone_number_signup">"Please enter your email or mobile number to get started"</string>
+    <string name="mobile_enter_email_phone_number_recovery">"Please enter your email or mobile number"</string>
+    <string name="format_android_receive_email">"Didn\'t receive a email?
+%1$s to resend"</string>
+    <string name="mobile_total">"Total"</string>
+    <string name="mobile_remove">"Remove"</string>
+    <string name="mobile_quantity">"Quantity"</string>
+    <string name="mobile_add_to_cart">"Add to cart"</string>
+    <string name="mobile_edit_your_order">"Edit your order"</string>
+    <string name="mobile_buy_cards">"Buy cards"</string>
+    <string name="mobile_payment_method">"Payment method"</string>
+    <string name="mobile_cart">Cart</string>
+    <string name="mobile_order_detail">Order detail</string>
+</resources>

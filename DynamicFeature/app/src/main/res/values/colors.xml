@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorBlueAddToCartButton">#5c97e3</color>
+    <color name="colorBlueAddToCartButton70">#B35c97e3</color>
+    <color name="colorBlueAddToCartButton50">#805c97e3</color>
+
+    <color name="colorPrimary">#EBEBEB</color>
+    <color name="colorPrimaryDark">#B1BEC5</color>
+    <color name="colorPrimaryDark50">#80B1BEC5</color>
+    <color name="colorSecondary">@color/red_2</color>
+    <color name="colorSecondaryOpacity50">@color/red_2_opacity50</color>
+    <color name="colorSecondaryOpacity30">@color/red_2_opacity30</color>
+    <color name="colorSecondaryOpacity10">@color/red_2_opacity10</color>
+    <color name="colorViewsBackground">#ffffff</color>
+    <color name="colorPrimaryTextGray">#606060</color>
+    <color name="colorPrimaryFieldDescriptionGray">#4e6a78</color>
+    <color name="colorPrimaryField">@color/colorBlack</color>
+    <color name="colorPrimaryFieldNotFocused">#ECF0F1</color>
+
+    <color name="colorCardSlimBorder">@color/colorBlack</color>
+    <color name="colorCardGrayDark">#1f1f1f</color>
+    <color name="colorCardGrayDarkOpacity10">#261F1F1F</color>
+    <color name="colorCardGrayDarkOpacity30">#4D1F1F1F</color>
+    <color name="colorCardGrayDarkOpacity70">#B31F1F1F</color>
+    <color name="colorSelectedCardGray">#4C5252</color>
+    <color name="colorCardGrayLight">#2f2f2f</color>
+    <color name="colorWalletEmptyGrayDark">#D9D8DF</color>
+    <color name="colorWalletEmptyGrayLight">#99E1E0E3</color>
+
+    <color name="colorGreenCurrency">#00897B</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteOpacity50">#80ffffff</color>
+    <color name="colorCartControlsBackground">#f7f7f7</color>
+    <color name="colorCartControlsPressedBackground">@color/colorPrimary</color>
+
+    <color name="colorShapeShadow">#32c3c3c3</color>
+    <color name="colorShapeShadowPressed">#278e8e93</color>
+    <color name="colorDividerListItemGray">#e1e1e1</color>
+    <color name="colorOverlay">#F2000000</color>
+    <color name="colorOverlayLight">#E6000000</color>
+
+    <color name="colorUploadImageDots">#cccccc</color>
+    <color name="colorRedError">#E15761</color>
+
+
+    <!--EDIT PROFILE-->
+    <color name="colorEmailStatusPending">#d0951a</color>
+    <color name="colorWarning">#1Ad0951a</color>
+    <color name="colorEmailStatusConfirmed">@color/green_1</color>
+
+    <!--CHECKOUT-->
+    <color name="checkout_button_green">@color/green_1</color>
+
+    <!--REFUND-->
+    <color name="green_no_fee">@color/green_1</color>
+    <color name="green_no_fee_opacity">@color/green_1_opacity</color>
+
+    <!--LOGIN BUTTON-->
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_green">@color/green_1</color>
+    <color name="cpb_green_dark">@color/green_1_dark</color>
+
+
+    <!--KYC-->
+    <color name="colorRequiredField">#E9D9DA</color>
+
+
+    <!--Opacity Levels-->
+
+    <!--100% — FF-->
+    <!--95% — F2-->
+    <!--90% — E6-->
+    <!--85% — D9-->
+    <!--80% — CC-->
+    <!--75% — BF-->
+    <!--70% — B3-->
+    <!--65% — A6-->
+    <!--60% — 99-->
+    <!--55% — 8C-->
+    <!--50% — 80-->
+    <!--45% — 73-->
+    <!--40% — 66-->
+    <!--35% — 59-->
+    <!--30% — 4D-->
+    <!--25% — 40-->
+    <!--20% — 33-->
+    <!--15% — 26-->
+    <!--10% — 1A-->
+    <!--5% — 0D-->
+    <!--0% — 00-->
+
+    <color name="green_1">#3BD5A9</color>
+    <color name="green_1_dark">#2EA784</color>
+    <color name="green_1_opacity">#1A3BD5A9</color>
+
+    <color name="red_1">#ff0000</color>
+    <color name="red_1_opacity50">#80ff0000</color>
+    <color name="red_2">#ff5c5c</color>
+    <color name="red_2_opacity70">#B3FF5C5C</color>
+    <color name="red_2_opacity50">#80FF5C5C</color>
+    <color name="red_2_opacity30">#4DFF5C5C</color>
+    <color name="red_2_opacity10">#1AFF5C5C</color>
+    <color name="red_3">#ff8181</color>
+    <color name="red_3_opacity50">#80FF8181</color>
+
+    <color name="color_1">#EF9A9A</color>
+    <color name="color_2">#E53935</color>
+    <color name="color_3">#f8bbd0</color>
+    <color name="color_4">#D81B60</color>
+    <color name="color_5">#880E4F</color>
+    <color name="color_6">#CE93D8</color>
+    <color name="color_7">#8E24AA</color>
+    <color name="color_8">#4A148C</color>
+    <color name="color_9">#B39DDB</color>
+    <color name="color_10">#673ab7</color>
+    <color name="color_11">#311b92</color>
+    <color name="color_12">#3D5AFE</color>
+    <color name="color_13">#29b6f6</color>
+    <color name="color_14">#26C6DA</color>
+    <color name="color_15">#26A69A</color>
+    <color name="color_16">#4CAF50</color>
+    <color name="color_17">#8BC34A</color>
+    <color name="color_18">#cddc39</color>
+    <color name="color_19">#FFEB3B</color>
+    <color name="color_20">#ffc107</color>
+    <color name="color_21">#ff9800</color>
+    <color name="color_22">#FF5722</color>
+    <color name="color_23">#795548</color>
+    <color name="color_24">#9E9E9E</color>
+    <color name="color_25">#607D8B</color>
+    <color name="color_26">#000000</color>
+    <color name="transparent">#00000000</color>
+
+
+</resources>
